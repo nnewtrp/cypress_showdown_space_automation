@@ -1,4 +1,4 @@
-# Browser automation with Cypress.js
+# Browser Automation with Cypress.js
 
 This project uses Cypress.js to solve the Browser Automation Challenge
 - Website: https://showdown.space/events/browser-automation-challenges/#registration-challenge
