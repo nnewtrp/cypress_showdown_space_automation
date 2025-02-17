@@ -1,24 +1,30 @@
-# Browser Automation with Cypress.js
+# 🚀 Browser Automation with Cypress.js
 
-This project uses Cypress.js to solve the Browser Automation Challenge
-- Website: https://showdown.space/events/browser-automation-challenges/#registration-challenge
+This project uses **Cypress.js** to automate browser interactions and solve the [Browser Automation Challenge](https://showdown.space/events/browser-automation-challenges/#registration-challenge).
 
-## Setup
+## 📦 Setup
 
-Make sure to install the dependencies:
+Before running the tests, install the required dependencies:
 
 ```bash
-# npm
 npm install
-
 ```
 
-## Development Server
+## 🛠 Running Cypress
+To open Cypress in interactive mode:
 
 ```bash
-# npm
 npx cypress open
-
 ```
 
-Check out the [Cypress.js](https://www.cypress.io/) for more information.
+To run Cypress tests in headless mode:
+
+```bash
+npx cypress run
+```
+
+## 📖 Learn More
+- [Cypress Documentation](https://docs.cypress.io/)
+- [Cypress Official Website](https://www.cypress.io/)
+  
+Happy Testing! 🎯🚀
